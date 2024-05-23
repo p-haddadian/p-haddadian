@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-haddadian&label=Profile%20views&color=0e75b6&style=flat" alt="p-haddadian" /> </p>
 
-- 🔭 I’m currently working on **Jacobian graph pooling (Still private!)**
+- 🔭 I’m currently working on **Jacobi graph pooling (Still private!)**
 
 - 🌱 I’m currently learning **Deep Graph Library**
 
