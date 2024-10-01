@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parsa</h1>
 <h3 align="center">An ML/DL enthusiast who has recently been attracted to graph representation learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=p-haddadian&label=Profile%20views&color=0e75b6&style=flat" alt="p-haddadian" /> </p>
 
 - 🔭 I’m currently working on **Jacobi graph pooling (Still private!)**
 
