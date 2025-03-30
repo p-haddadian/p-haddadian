@@ -2,7 +2,7 @@
 <h3 align="center">An ML/DL enthusiast who has recently been attracted to graph representation learning</h3>
 
 
-- 🔭 I’m currently working on **Jacobi graph pooling (Still private!)**
+- 🔭 I’m currently working on **Jacobi graph pooling**
 
 - 🌱 I’m currently learning **CUDA semantics in PyTorch, and LLMs**
 
